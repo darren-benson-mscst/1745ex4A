@@ -9,8 +9,6 @@ public class Main {
         System.out.println("\np124 #5:");
 
         System.out.println("\np124 #6:");
-        
-        System.out.println("\nForked version of ex1b");
 	}
 
 }

@@ -1,0 +1,1 @@
+COMC2740 Exercise 1B: Ch2 p123-124, #1, 3, 5, 6: Literals & variables. Name, address, totals, etc.
